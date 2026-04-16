@@ -1,3 +1,58 @@
+# IT Support Ticketing System (osTicket)
+
+## Overview
+
+This project demonstrates how support tickets are handled from intake through resolution using osTicket. It focuses on the actual workflow of reviewing issues, responding to users, documenting troubleshooting steps, and tracking progress through the ticket lifecycle
+
+---
+
+## What This Project Demonstrates
+
+- Ticket lifecycle management (creation, triage, resolution)
+- Responding to users with clear, actionable steps
+- Documenting internal troubleshooting notes
+- Diagnosing common IT issues (login, printer, network, email)
+- Applying SLA (Service Level Agreement) policies to tickets
+
+---
+
+## Tools & Technologies
+
+- osTicket (ticketing system)
+- XAMPP (Apache, MySQL, PHP)
+- Localhost environment
+- Web-based admin dashboard
+
+---
+
+## Key Scenarios Covered
+
+This project includes multiple simulated support tickets:
+
+- **Login Issue** – user unable to access account (password/authentication troubleshooting)
+- **Printer Issue** – network printer showing offline
+- **Wi-Fi Issue** – slow connectivity and network troubleshooting
+- **Outlook Issue** – email sync problems
+
+Each scenario includes:
+- Customer-facing response
+- Internal troubleshooting documentation
+- Identified possible causes
+- Next steps for resolution
+
+---
+
+## Support Workflow Demonstrated
+
+1. Ticket creation and intake
+2. Issue triage and categorization
+3. Initial troubleshooting steps 
+4. Customer communication
+5. Internal documentation
+6. Escalation considerations if unresolved
+7. SLA assignment and tracking
+
+---
 ## Project Walkthrough
 
 ### Environment Setup
