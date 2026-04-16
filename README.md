@@ -50,31 +50,31 @@
 
 ### Ticket Handling & Support Workflow
 
-#### Login Issue — Customer Inquiry, Support Reply & Internal Note
+#### Login Issue - Customer Inquiry, Support Reply & Internal Note
 ![Login Internal Note](images/13-login-issues-response-internal-note.png)
 
 ---
 
-#### Printer Issue — Customer Inquiry & Support Reply
+#### Printer Issue - Customer Inquiry & Support Reply
 ![Printer Response](images/14-printer-ticket-response-a.png)
 
-#### Printer Issue — Internal Note
+#### Printer Issue - Internal Note
 ![Printer Internal Note](images/14-printer-ticket-internal-note-b.png)
 
 ---
 
-#### Wi-Fi Issue — Customer Inquiry & Support Reply
+#### Wi-Fi Issue - Customer Inquiry & Support Reply
 ![WiFi Response](images/15-wifi-ticket-response-a.png)
 
-#### Wi-Fi Issue — Internal Note
+#### Wi-Fi Issue - Internal Note
 ![WiFi Internal Note](images/15-wifi-ticket-internal-note-b.png)
 
 ---
 
-#### Outlook Issue — Customer Inquiry & Support Reply
+#### Outlook Issue - Customer Inquiry & Support Reply
 ![Outlook Response](images/16-outlook-ticket-response-a.png)
 
-#### Outlook Issue — Internal Note
+#### Outlook Issue - Internal Note
 ![Outlook Internal Note](images/16-outlook-ticket-internal-note-b.png)
 
 ---
