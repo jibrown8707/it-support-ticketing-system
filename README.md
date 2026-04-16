@@ -50,12 +50,12 @@
 
 ### Ticket Handling & Support Workflow
 
-#### Login Issue — Internal Note + Response
+#### Login Issue — Customer Inquiry, Support Reply & Internal Note
 ![Login Internal Note](images/13-login-issues-response-internal-note.png)
 
 ---
 
-#### Printer Issue — Customer Response
+#### Printer Issue — Customer Inquiry & Support Reply
 ![Printer Response](images/14-printer-ticket-response-a.png)
 
 #### Printer Issue — Internal Note
@@ -63,7 +63,7 @@
 
 ---
 
-#### Wi-Fi Issue — Customer Response
+#### Wi-Fi Issue — Customer Inquiry & Support Reply
 ![WiFi Response](images/15-wifi-ticket-response-a.png)
 
 #### Wi-Fi Issue — Internal Note
@@ -71,7 +71,7 @@
 
 ---
 
-#### Outlook Issue — Customer Response
+#### Outlook Issue — Customer Inquiry & Support Reply
 ![Outlook Response](images/16-outlook-ticket-response-a.png)
 
 #### Outlook Issue — Internal Note
